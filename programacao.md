@@ -1,6 +1,6 @@
 ## GRUPOS
 
-| **GRUPO**  | **MEMBROS**                        |
+| **GRUPO**  | **🕵️‍♀️MEMBROS**                        |
 |--------|--------------------------------|
 | ALFA   | Valdelice, Thayla, Aline, Raquel           |
 | BETA   | Terezinha Flores, Cristiane, Heida, Zélia           |
@@ -9,7 +9,7 @@
 
 ## TURNOS
 
-| **TURNO**  | **GRUPO**                        |
+| **TURNO⏰**  | **GRUPO**                        |
 |--------|--------------------------------|
 | 1º (07:30 - 08:30)   | GAMA           |
 | 2º (08:30 - 09:30)  | BETA           |
