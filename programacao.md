@@ -2,10 +2,10 @@
 
 | **GRUPO**  | **MEMBROS**                        |
 |--------|--------------------------------|
-| Alfa   | Valdelice, Thayla, Aline, Raquel           |
-| Beta   | Terezinha Flores, Cristiane, Heida, Zélia           |
-| Gama   | Ilene, Cleude, Terezinha Ferreira, Marlene      |
-| Delta  | Adriane, Uelida, Laiane     |
+| ALFA   | Valdelice, Thayla, Aline, Raquel           |
+| BETA   | Terezinha Flores, Cristiane, Heida, Zélia           |
+| GAMA   | Ilene, Cleude, Terezinha Ferreira, Marlene      |
+| DELTA  | Adriane, Uelida, Laiane     |
 
 ## TURNOS
 
