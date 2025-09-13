@@ -1,4 +1,4 @@
-## GRUPOS
+## GRUPOS 🤝
 
 | **GRUPO**  | **🕵️‍♀️MEMBROS**                        |
 |--------|--------------------------------|
@@ -7,9 +7,9 @@
 | GAMA   | Ilene, Cleude, Terezinha Ferreira, Marlene      |
 | DELTA  | Adriane, Uelida, Laiane     |
 
-## TURNOS
+## TURNOS ⏰
 
-| **TURNO⏰**  | **GRUPO**                        |
+| **TURNO**  | **GRUPO**                        |
 |--------|--------------------------------|
 | 1º (07:30 - 08:30)   | GAMA           |
 | 2º (08:30 - 09:30)  | BETA           |
