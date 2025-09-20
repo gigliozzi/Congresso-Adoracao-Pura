@@ -3,9 +3,9 @@
 | **GRUPO**  | **🕵️‍♀️MEMBROS**                        |
 |--------|--------------------------------|
 | ALFA   | Valdelice, Heida, Aline, Raquel           |
-| BETA   | Terezinha Flores, Thayla, Lidiane, Zélia           |
+| BETA   | Terezinha Flores, Thayla, Railane, Zélia           |
 | GAMA   | Ilene, Cleude, Terezinha Ferreira, Marlene      |
-| DELTA  | Adriane, Uelida, Laiane, Cristiane, Railane    |
+| DELTA  | Adriane, Uelida, Laiane, Cristiane    |
 
 ## TURNOS ⏰
 
