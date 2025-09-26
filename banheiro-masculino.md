@@ -5,7 +5,7 @@
 | ALFA   | Júlio, Aldair, Bruno           |
 | BETA   | Vanildo, Sávio, Alípio           |
 | GAMA   | Sílvio, Eliseu, William      |
-| DELTA  | João B., André     |
+| DELTA  | João B., André, Roberto    |
 
 ## TURNOS ⏰
 
