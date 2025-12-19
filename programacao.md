@@ -2,17 +2,13 @@
 
 | **GRUPO**  | **🕵️‍♀️MEMBROS**                        |
 |--------|--------------------------------|
-| ALFA   | Valdelice, Heida, Aline, Raquel           |
-| BETA   | Terezinha Flores, Thayla, Railane, Zélia           |
-| GAMA   | Ilene, Cleude, Terezinha Ferreira, Marlene      |
-| DELTA  | Adriane, Uelida, Laiane, Cristiane    |
+| ALFA   | Joseane, Jeovana, Germi, Raquel           |
+| GAMA   | Cristiane, Leonita, Terezinha Flores, Terezinha Ferreira     |
+
 
 ## TURNOS ⏰
 
 | **TURNO**  | **GRUPO**                        |
 |--------|--------------------------------|
-| 1º (07:30 - 08:30)   | GAMA           |
-| 2º (08:30 - 09:30)  | BETA           |
-| 3º (09:30 - 10:30)  | GAMA      |
-| 4º (10:30 - 11:30) | ALFA     |
-| 5º (11:30 - 12:15) | DELTA     |
+| 1º (14:00 - 14:45)   | ALFA           |
+| 2º (15:45 - 15:30)  | GAMA           |
